@@ -1,16 +1,11 @@
-# m-theme README
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### m.
+m. is a simple a monochromatic VSCode theme that aims to increse productivity and focus.
+### screenshots
+comming soon...
+### installation
+- open the extensions sidebar in VSCode
+- search for "m."
+- click on install
+- open the command palette with `Ctrl + Shift + P` or `⇧ ⌘ P`
+- select "Preferences: Color Theme" and choose the m. color scheme
+- Enjoy!
